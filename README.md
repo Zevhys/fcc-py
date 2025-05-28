@@ -8,7 +8,7 @@ These projects are designed to test and let you apply the Python concepts you've
 - [Arithmetic Formatter](project/1-arithmetic-formatter/arithmetic.py) 🔢: </br>
 This project involves arranging simple arithmetic problems vertically, just like you'd see them written out for manual calculation.
 
-- [Time Calculator](project/2-arithmetic formatter/time.py) ⏰: </br>
+- [Time Calculator](project/2-arithmetic-formatter/time.py) ⏰: </br>
 Here, you'll create a function to calculate a future time after a certain duration has been added to a starting time.
 
 - [Budget App](project/3-arithmetic-formatter/budget.py) 📊: </br>
