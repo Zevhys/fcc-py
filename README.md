@@ -1,5 +1,5 @@
 # fcc-py
-[![Author](http://img.shields.io/badge/author-@Zevhys-blue.svg)](https://www.linkedin.com/in/rakha-djauhari/) [![GitHub license](https://img.shields.io/github/license/Zevhys/fcc-py)](https://github.com/Zevhys/fcc-py/blob/main/LICENSE) ![GitHub repo size](https://img.shields.io/github/repo-size/Zevhys/fcc-py) [![Issues Welcome](https://img.shields.io/badge/issues-welcome-brightgreen.svg)](https://github.com/Zevhys/fcc-py) 
+[![Author](http://img.shields.io/badge/author-@Zevhys-blue.svg)](https://www.linkedin.com/in/rakha-djauhari/) [![GitHub license](https://img.shields.io/github/license/Zevhys/fcc-py)](https://github.com/Zevhys/fcc-py/blob/main/LICENSE) ![GitHub repo size](https://img.shields.io/github/repo-size/Zevhys/fcc-py) [![Issues Welcome](https://img.shields.io/badge/issues-welcome-brightgreen.svg)](https://github.com/Zevhys/fcc-py) [![Pull Requests Welcome](https://img.shields.io/badge/pull%20requests-welcome-brightgreen.svg)](https://github.com/Zevhys/fcc-py/pulls)
 
 Completed five hands-on projects from FreeCodeCamp's Scientific Computing with Python course. This shows my skills in working with numbers, making data visuals, and solving scientific problems using Python tools
 
